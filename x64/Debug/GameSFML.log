@@ -1,0 +1,537 @@
+﻿  enemy.cpp
+F:\GameSFMLOk - final\map.h(32,51): warning C4244: 'argument' : conversion de 'unsigned int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\map.h(32,35): warning C4244: 'argument' : conversion de 'unsigned int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\map.h(33,57): warning C4244: 'argument' : conversion de 'unsigned int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\map.h(33,41): warning C4244: 'argument' : conversion de 'unsigned int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\map.h(34,63): warning C4244: 'argument' : conversion de 'unsigned int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\map.h(34,41): warning C4244: 'argument' : conversion de 'unsigned int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\map.h(35,57): warning C4244: 'argument' : conversion de 'unsigned int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\map.h(35,35): warning C4244: 'argument' : conversion de 'unsigned int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\map.h(37,54): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\map.h(37,37): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\map.h(38,60): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\map.h(38,43): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\map.h(39,66): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\map.h(39,43): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\map.h(40,60): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\map.h(40,37): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\main.h(12,11): error C2374: 'WIND_WIDTH' : redéfinition ; initialisation multiple
+F:\GameSFMLOk - final\main.h(12): message : voir la déclaration de 'WIND_WIDTH'
+F:\GameSFMLOk - final\main.h(13,11): error C2374: 'WIND_HEIGHT' : redéfinition ; initialisation multiple
+F:\GameSFMLOk - final\main.h(13): message : voir la déclaration de 'WIND_HEIGHT'
+F:\GameSFMLOk - final\main.h(14,11): error C2374: 'WIND_WIDTH_G' : redéfinition ; initialisation multiple
+F:\GameSFMLOk - final\main.h(14): message : voir la déclaration de 'WIND_WIDTH_G'
+F:\GameSFMLOk - final\main.h(15,11): error C2374: 'WIND_HEIGHT_G' : redéfinition ; initialisation multiple
+F:\GameSFMLOk - final\main.h(15): message : voir la déclaration de 'WIND_HEIGHT_G'
+F:\GameSFMLOk - final\main.h(16,11): error C2374: 'SPRITE_SIZE' : redéfinition ; initialisation multiple
+F:\GameSFMLOk - final\main.h(16): message : voir la déclaration de 'SPRITE_SIZE'
+F:\GameSFMLOk - final\main.h(17,11): error C2374: 'WALK_SPEED' : redéfinition ; initialisation multiple
+F:\GameSFMLOk - final\main.h(17): message : voir la déclaration de 'WALK_SPEED'
+F:\GameSFMLOk - final\main.h(18,11): error C2374: 'COL_COUNT' : redéfinition ; initialisation multiple
+F:\GameSFMLOk - final\main.h(18): message : voir la déclaration de 'COL_COUNT'
+F:\GameSFMLOk - final\main.h(19,11): error C2374: 'ROW_COUNT' : redéfinition ; initialisation multiple
+F:\GameSFMLOk - final\main.h(19): message : voir la déclaration de 'ROW_COUNT'
+F:\GameSFMLOk - final\game.cpp(111,3): error C3861: 'debugMode' : identificateur introuvable
+F:\GameSFMLOk - final\game.cpp(125,48): warning C4244: 'argument' : conversion de 'unsigned int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\game.cpp(125,31): warning C4244: 'argument' : conversion de 'unsigned int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+  game.cpp
+F:\GameSFMLOk - final\map.h(32,51): warning C4244: 'argument' : conversion de 'unsigned int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\map.h(32,35): warning C4244: 'argument' : conversion de 'unsigned int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\map.h(33,57): warning C4244: 'argument' : conversion de 'unsigned int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\map.h(33,41): warning C4244: 'argument' : conversion de 'unsigned int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\map.h(34,63): warning C4244: 'argument' : conversion de 'unsigned int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\map.h(34,41): warning C4244: 'argument' : conversion de 'unsigned int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\map.h(35,57): warning C4244: 'argument' : conversion de 'unsigned int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\map.h(35,35): warning C4244: 'argument' : conversion de 'unsigned int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\map.h(37,54): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\map.h(37,37): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\map.h(38,60): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\map.h(38,43): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\map.h(39,66): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\map.h(39,43): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\map.h(40,60): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\map.h(40,37): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\game.cpp(111,3): error C3861: 'debugMode' : identificateur introuvable
+F:\GameSFMLOk - final\game.cpp(125,48): warning C4244: 'argument' : conversion de 'unsigned int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\game.cpp(125,31): warning C4244: 'argument' : conversion de 'unsigned int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+  input.cpp
+  main.cpp
+F:\GameSFMLOk - final\map.h(32,51): warning C4244: 'argument' : conversion de 'unsigned int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\map.h(32,35): warning C4244: 'argument' : conversion de 'unsigned int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\map.h(33,57): warning C4244: 'argument' : conversion de 'unsigned int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\map.h(33,41): warning C4244: 'argument' : conversion de 'unsigned int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\map.h(34,63): warning C4244: 'argument' : conversion de 'unsigned int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\map.h(34,41): warning C4244: 'argument' : conversion de 'unsigned int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\map.h(35,57): warning C4244: 'argument' : conversion de 'unsigned int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\map.h(35,35): warning C4244: 'argument' : conversion de 'unsigned int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\map.h(37,54): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\map.h(37,37): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\map.h(38,60): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\map.h(38,43): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\map.h(39,66): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\map.h(39,43): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\map.h(40,60): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\map.h(40,37): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\main.cpp(12,52): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+F:\GameSFMLOk - final\main.cpp(12,34): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+  menu.cpp
+  perso.cpp
+F:\GameSFMLOk - final\map.h(32,51): warning C4244: 'argument' : conversion de 'unsigned int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\map.h(32,35): warning C4244: 'argument' : conversion de 'unsigned int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\map.h(33,57): warning C4244: 'argument' : conversion de 'unsigned int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\map.h(33,41): warning C4244: 'argument' : conversion de 'unsigned int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\map.h(34,63): warning C4244: 'argument' : conversion de 'unsigned int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\map.h(34,41): warning C4244: 'argument' : conversion de 'unsigned int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\map.h(35,57): warning C4244: 'argument' : conversion de 'unsigned int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\map.h(35,35): warning C4244: 'argument' : conversion de 'unsigned int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\map.h(37,54): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\map.h(37,37): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\map.h(38,60): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\map.h(38,43): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\map.h(39,66): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\map.h(39,43): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\map.h(40,60): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\map.h(40,37): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\main.h(12,11): error C2374: 'WIND_WIDTH' : redéfinition ; initialisation multiple
+F:\GameSFMLOk - final\main.h(12): message : voir la déclaration de 'WIND_WIDTH'
+F:\GameSFMLOk - final\main.h(13,11): error C2374: 'WIND_HEIGHT' : redéfinition ; initialisation multiple
+F:\GameSFMLOk - final\main.h(13): message : voir la déclaration de 'WIND_HEIGHT'
+F:\GameSFMLOk - final\main.h(14,11): error C2374: 'WIND_WIDTH_G' : redéfinition ; initialisation multiple
+F:\GameSFMLOk - final\main.h(14): message : voir la déclaration de 'WIND_WIDTH_G'
+F:\GameSFMLOk - final\main.h(15,11): error C2374: 'WIND_HEIGHT_G' : redéfinition ; initialisation multiple
+F:\GameSFMLOk - final\main.h(15): message : voir la déclaration de 'WIND_HEIGHT_G'
+F:\GameSFMLOk - final\main.h(16,11): error C2374: 'SPRITE_SIZE' : redéfinition ; initialisation multiple
+F:\GameSFMLOk - final\main.h(16): message : voir la déclaration de 'SPRITE_SIZE'
+F:\GameSFMLOk - final\main.h(17,11): error C2374: 'WALK_SPEED' : redéfinition ; initialisation multiple
+F:\GameSFMLOk - final\main.h(17): message : voir la déclaration de 'WALK_SPEED'
+F:\GameSFMLOk - final\main.h(18,11): error C2374: 'COL_COUNT' : redéfinition ; initialisation multiple
+F:\GameSFMLOk - final\main.h(18): message : voir la déclaration de 'COL_COUNT'
+F:\GameSFMLOk - final\main.h(19,11): error C2374: 'ROW_COUNT' : redéfinition ; initialisation multiple
+F:\GameSFMLOk - final\main.h(19): message : voir la déclaration de 'ROW_COUNT'
+F:\GameSFMLOk - final\game.cpp(111,3): error C3861: 'debugMode' : identificateur introuvable
+F:\GameSFMLOk - final\game.cpp(125,48): warning C4244: 'argument' : conversion de 'unsigned int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\game.cpp(125,31): warning C4244: 'argument' : conversion de 'unsigned int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+F:\GameSFMLOk - final\perso.cpp(20,34): warning C4018: '>=' : incompatibilité signed/unsigned
+F:\GameSFMLOk - final\perso.cpp(54,12): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+F:\GameSFMLOk - final\perso.cpp(55,12): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+F:\GameSFMLOk - final\perso.cpp(69,17): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+F:\GameSFMLOk - final\perso.cpp(81,17): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+F:\GameSFMLOk - final\perso.cpp(91,17): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+F:\GameSFMLOk - final\perso.cpp(101,17): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+  Génération de code en cours...

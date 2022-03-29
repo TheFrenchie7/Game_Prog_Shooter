@@ -1,0 +1,3 @@
+D:\work\c++\GameSFML\x64\Debug\GameSFML.exe
+C:\GameSFMLOk\x64\Debug\GameSFML.exe
+D:\GameSFMLOk\x64\Debug\GameSFML.exe
